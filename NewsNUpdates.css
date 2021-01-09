@@ -1212,7 +1212,7 @@
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 105px;
+	font-size: 80px;
 	color: rgba(21,49,144,1);
 }
 .News__Class {
@@ -1228,7 +1228,7 @@
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 106px;
+	font-size: 80px;
 	color: rgba(21,49,144,1);
 }
 .Path_27219_Class {
@@ -2275,7 +2275,7 @@
 }
 .Disease_Prevention__Treatment_Class {
 	left: 1392px;
-	top: 750px;
+	top: 747px;
 	position: absolute;
 	overflow: visible;
 	width: 215px;
@@ -2749,6 +2749,33 @@
 	left: 165px;
 	top: 1872px;
 }
+.Ellipse_56281 {
+	fill: rgba(32,57,142,1);
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 165px;
+	top: 2078px;
+}
+.MAJOR_PROJECTS_2020__2021_Class {
+    left: 165px;
+    top: 2025px;
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    white-space: nowrap;
+    line-height: 35px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+
 .Rotary_International_News_http_Class {
 	left: 205px;
 	top: 1768px;
@@ -3245,6 +3272,24 @@
 	color: rgba(18,47,144,1);
 }
 
+.Projects19_20 {
+	left: 160px;
+	top: 2075px;
+	position: absolute;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	width: 85%;
+	height: 700px;
+	line-height: 50px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
 
 #myBtn1{
 	background-color:rgba(21,49,144,1);

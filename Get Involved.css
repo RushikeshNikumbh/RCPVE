@@ -1264,6 +1264,42 @@ body{
 	font-weight: normal;
 	font-size: 21px;
 	color: rgba(255,255,255,1);
+	align-items: center;
+}
+
+.GET_STARTED_Class1 {
+	left: 855px;
+	top: 4850px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+	align-items: center;
+}
+
+.MakeADonation{
+	left: 590px;
+	top: 5335px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
 }
 .Path_27220_Class {
 	fill: rgba(32,57,142,1);
@@ -2280,7 +2316,7 @@ body{
 }
 .Disease_Prevention__Treatment_Class {
 	left: 1392px;
-	top: 754px;
+	top: 747px;
 	position: absolute;
 	overflow: visible;
 	width: 215px;
@@ -2650,7 +2686,7 @@ body{
 }
 .New_Generation_Service_Exchang_Class {
 	left: 165px;
-	top: 6522px;
+	top: 6628px;
 	position: absolute;
 	overflow: visible;
 	width: 1172px;
@@ -2744,7 +2780,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Join_Rotary_-_Membership_Class {
 	left: 164px;
-	top: 6792px;
+	top: 6852px;
 	position: absolute;
 	overflow: visible;
 	width: 727px;
@@ -2830,7 +2866,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .All_technical_support_and_expe_Class {
 	left: 165px;
-	top: 4690px;
+	top: 4755px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -2881,7 +2917,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Awareness_about_Non-Communicab_Class1 {
 	left: 245px;
-	top: 4613px;
+	top: 4665px;
 	position: absolute;
 	overflow: visible;
 	width: 920px;
@@ -2915,7 +2951,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Awareness_about_Non-Communicab_gy_Class1{
 	left: 260px;
-	top: 4490px;
+	top: 4520px;
 	position: absolute;
 	overflow: visible;
 	width: 1000px;
@@ -3239,7 +3275,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Contact_Details_for_PPH_Class {
 	left: 165px;
-	top: 4651px;
+	top: 4715px;
 	position: absolute;
 	overflow: visible;
 	width: 345px;
@@ -3307,7 +3343,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Infographics_Class {
 	left: 205px;
-	top: 4567px;
+	top: 4617px;
 	position: absolute;
 	overflow: visible;
 	width: 171px;
@@ -3409,7 +3445,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .MAKE_A_DONATION_Class {
 	left: 165px;
-	top: 4790px;
+	top: 4950px;
 	position: absolute;
 	overflow: visible;
 	width: 484px;
@@ -3443,7 +3479,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .ROTARACT_CLUB_Class {
 	left: 165px;
-	top: 5297px;
+	top: 5427px;
 	position: absolute;
 	overflow: visible;
 	width: 420px;
@@ -3460,7 +3496,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .INTERACT_CLUB_Class {
 	left: 165px;
-	top: 5815px;
+	top: 5915px;
 	position: absolute;
 	overflow: visible;
 	width: 398px;
@@ -3535,10 +3571,11 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 
 }
 .MAKE_A_DONATION_hz_Class {
-	left: 33.231px;
-	top: 14.497px;
-	position: absolute;
+	left: 285px;
+	top: 143px;
+	position: relative;
 	overflow: visible;
+	z-index: 99999;
 	width: 213px;
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
@@ -3640,7 +3677,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Known_no_better_as_the_father__Class {
 	left: 165px;
-	top: 4864px;
+	top: 5014px;
 	position: absolute;
 	overflow: visible;
 	width: 1084px;
@@ -3657,7 +3694,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Rotaract_Club_of_Pune_Vibrant__Class {
 	left: 165px;
-	top: 5381px;
+	top: 5491px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3674,7 +3711,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Two_Interact_clubs_were_starte_Class {
 	left: 165px;
-	top: 5899px;
+	top: 5990px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3691,7 +3728,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .To_enhance_the_activities_of_t_Class {
 	left: 165px;
-	top: 6023px;
+	top: 6183px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3708,7 +3745,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .The_NGSE_program_is_a_short_te_Class {
 	left: 165px;
-	top: 6606px;
+	top: 6696px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3725,7 +3762,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Welcome_to_the_world_of_Rotary_Class {
 	left: 165px;
-	top: 6876px;
+	top: 6926px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3742,7 +3779,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .We_welcome_your_participation__Class {
 	left: 165px;
-	top: 6930px;
+	top: 6980px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3759,7 +3796,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Under_the_Wash-IN-School_WINS__Class {
 	left: 165px;
-	top: 6213px;
+	top: 6373px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3776,7 +3813,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Training_and_counselling_sessi_Class {
 	left: 165px;
-	top: 6370px;
+	top: 6500px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3793,7 +3830,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Shri_Bhekraimata_Madhyamik_Vid_Class {
 	left: 208px;
-	top: 5939px;
+	top: 6029px;
 	position: absolute;
 	overflow: visible;
 	width: 747px;
@@ -3827,7 +3864,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Recently_we_have_also_started__Class {
 	left: 165px;
-	top: 5539px;
+	top: 5759px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3844,7 +3881,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .Several_guest_speakers_have_al_Class {
 	left: 165px;
-	top: 5654px;
+	top: 5644px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3861,7 +3898,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .The_Rotary_Foundation_is_organ_Class {
 	left: 165px;
-	top: 5054px;
+	top: 5214px;
 	position: absolute;
 	overflow: visible;
 	width: 1084px;
@@ -3954,8 +3991,8 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 
 #ArchKlump_Pic{
-	left: 1300px;
-	top: 4875px;
+	left: 1260px;
+	top: 4995px;
 	position: absolute;
 	overflow: visible;
 	width: 449px;
@@ -4338,16 +4375,16 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 	left: 165px;
 	top: 4412px;
 }
-.Ellipse_5633_Class {
-	fill: rgba(32,57,142,1);
-}
+
 .Ellipse_5633 {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
 	height: 20px;
 	left: 165px;
-	top: 4571px;
+	top: 4621px;
+	fill: rgba(32,57,142,1);
+
 }
 .REGISTER_FOR_PPH_APP__Class {
 	left: 174.809px;
