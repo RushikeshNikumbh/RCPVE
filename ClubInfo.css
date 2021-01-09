@@ -2572,6 +2572,24 @@ body{
 }
 .Club_members_Class {
 	left: 165px;
+	top: 1270px;
+	position: absolute;
+	overflow: visible;
+	width: 1250px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -10.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgb(0, 0, 0);
+	letter-spacing: 0.5px;
+	/*text-transform: uppercase;*/
+}
+.Club_members_Class_data {
+	left: 165px;
 	top: 1180px;
 	position: absolute;
 	overflow: visible;
@@ -2582,18 +2600,19 @@ body{
 	text-align: left;
 	font-family: Montserrat;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 44px;
-	color: rgba(21,49,144,1);
+	color: rgb(0, 0, 0);
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
 }
+
 .Club_Meetings_Events__Programs_Class {
 	left: 165px;
 	top: 2531px;
 	position: absolute;
 	overflow: visible;
-	width: 983px;
+	width: 1500px;
 	white-space: nowrap;
 	line-height: 65px;
 	margin-top: -10.5px;
@@ -2606,9 +2625,47 @@ body{
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
 }
+
+.calendarframe {
+	left: 165px;
+	top: 2650px;
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -10.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(21,49,144,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+.Meeting_Info_and_Venue {
+    left: 165px;
+    top: 1180px;
+    position: absolute;
+    overflow: visible;
+    width: 692px;
+    white-space: nowrap;
+    line-height: 65px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    color: rgba(21,49,144,1);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
 .Earlier_Projects_Class {
 	left: 165px;
-	top: 3347px;
+	top: 3607px;
 	position: absolute;
 	overflow: visible;
 	width: 486px;
@@ -2626,7 +2683,7 @@ body{
 }
 .Meeting_Info_and_Venue_Class {
 	left: 165px;
-	top: 4105px;
+	top: 4375px;
 	position: absolute;
 	overflow: visible;
 	width: 692px;
@@ -2644,10 +2701,10 @@ body{
 }
 .Contact_Us_Class {
 	left: 165px;
-	top: 4549px;
+	top: 4775px;
 	position: absolute;
 	overflow: visible;
-	width: 318px;
+	width: 1000px;
 	white-space: nowrap;
 	line-height: 65px;
 	margin-top: -10.5px;
@@ -2660,6 +2717,25 @@ body{
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
 }
+
+.MAP{
+	left: 1000px;
+	top: 4550px;
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -10.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(21,49,144,1);
+	letter-spacing: 0.5px;
+}
+
 .Club_Secretary_Rotary_Club_of__Class {
 	left: 165px;
 	top: 4850px;
@@ -2679,7 +2755,7 @@ body{
 }
 .Rotary_Club_of_Pune_Vibrant_Ea_Class {
 	left: 165px;
-	top: 4189px;
+	top: 4450px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -4681,10 +4757,10 @@ body{
 }
 .Brisk_Walking_to_Prevent___Hea_Class {
 	left: 209px;
-	top: 3480px;
+	top: 3730px;
 	position: absolute;
 	overflow: visible;
-	width: 346px;
+	width: 846px;
 	height: 586px;
 	line-height: 25px;
 	margin-top: -0.5px;
@@ -4696,12 +4772,31 @@ body{
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
+.Projects19_20 {
+	left: 209px;
+	top: 4090px;
+	position: absolute;
+	overflow: visible;
+	width: 846px;
+	height: 586px;
+	line-height: 25px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+
+
 .Magic_Pits_for_Water___Harvest_Class {
-	left: 801px;
+	left: 1045px;
 	top: 3480px;
 	position: absolute;
 	overflow: visible;
-	width: 552px;
+	width: 1000px;
 	height: 455px;
 	line-height: 25px;
 	margin-top: -0.5px;
@@ -4715,7 +4810,7 @@ body{
 }
 .MAJOR_PROJECTS_2018__2019_Class {
 	left: 165px;
-	top: 3431px;
+	top: 3681px;
 	position: absolute;
 	overflow: visible;
 	width: 400px;
@@ -4730,8 +4825,10 @@ body{
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
+
+
 .MAJOR_PROJECTS_2019_-_2020_Class {
-	left: 761px;
+	left: 1000px;
 	top: 3431px;
 	position: absolute;
 	overflow: visible;
@@ -4747,6 +4844,25 @@ body{
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
+
+.MAJOR_PROJECTS_2020__2021_Class {
+	left: 165px;
+	top: 4031px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+
 .Ellipse_5606_Class {
 	fill: rgba(32,57,142,1);
 }
@@ -4756,7 +4872,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3484px;
+	top: 4094px;
 }
 .Ellipse_5618_Class {
 	fill: rgba(32,57,142,1);
@@ -4766,7 +4882,7 @@ body{
 	overflow: visible;
 	width: 20px;
 	height: 20px;
-	left: 761px;
+	left: 1005px;
 	top: 3484px;
 }
 .Ellipse_5607_Class {
@@ -4778,7 +4894,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3536px;
+	top: 4145px;
 }
 .Ellipse_5619_Class {
 	fill: rgba(32,57,142,1);
@@ -4788,7 +4904,7 @@ body{
 	overflow: visible;
 	width: 20px;
 	height: 20px;
-	left: 761px;
+	left: 1005px;
 	top: 3536px;
 }
 .Ellipse_5608_Class {
@@ -4800,7 +4916,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3585px;
+	top: 4195px;
 }
 .Ellipse_5620_Class {
 	fill: rgba(32,57,142,1);
@@ -4810,7 +4926,7 @@ body{
 	overflow: visible;
 	width: 20px;
 	height: 20px;
-	left: 761px;
+	left: 1005px;
 	top: 3585px;
 }
 .Ellipse_5609_Class {
@@ -4822,7 +4938,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3634px;
+	top: 4294px;
 }
 .Ellipse_5621_Class {
 	fill: rgba(32,57,142,1);
@@ -4832,7 +4948,7 @@ body{
 	overflow: visible;
 	width: 20px;
 	height: 20px;
-	left: 761px;
+	left: 1005px;
 	top: 3634px;
 }
 .Ellipse_5610_Class {
@@ -4844,7 +4960,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3683px;
+	top: 3783px;
 }
 .Ellipse_5622_Class {
 	fill: rgba(32,57,142,1);
@@ -4854,7 +4970,7 @@ body{
 	overflow: visible;
 	width: 20px;
 	height: 20px;
-	left: 761px;
+	left: 1005px;
 	top: 3683px;
 }
 .Ellipse_5611_Class {
@@ -4888,7 +5004,7 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 3783px;
+	top: 4083px;
 }
 .Ellipse_5624_Class {
 	fill: rgba(32,57,142,1);
@@ -4976,11 +5092,11 @@ body{
 	width: 20px;
 	height: 20px;
 	left: 172px;
-	top: 4035px;
+	top: 4245px;
 }
 .Hotel_Suresh_Inn_15112_Suresh__Class {
 	left: 165px;
-	top: 4329px;
+	top: 4535px;
 	position: absolute;
 	overflow: visible;
 	width: 2000px;
@@ -5591,4 +5707,16 @@ body{
 	background-color:rgba(21,49,144,1);
 	padding: 20px 45px;
 	border-radius: 120px;
+}
+
+
+.table table-striped{
+	
+		width: 100%;
+		max-width: 100%;
+		margin-bottom: 1rem;
+		background-color: transparent;
+		font-size: smaller;
+		text-decoration-color: black;
+	
 }
