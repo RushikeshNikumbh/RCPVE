@@ -303,7 +303,9 @@ body{
 }
 .Path_27220 {
 	overflow: visible;
-	position: absolute;
+	position: relative;
+	cursor: pointer;
+	z-index: 99999;
 	width: 19.623px;
 	height: 42.513px;
 	left: 174.809px;
