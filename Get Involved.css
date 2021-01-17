@@ -1307,6 +1307,8 @@ body{
 .Path_27220 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 19.623px;
 	height: 42.513px;
 	left: 174.81px;
@@ -1319,6 +1321,8 @@ body{
 .Path_27221 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 40.396px;
 	height: 40.408px;
 	left: 369.264px;
@@ -1331,6 +1335,8 @@ body{
 .Path_27222 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 45.859px;
 	height: 36.682px;
 	left: 266.832px;
@@ -2442,6 +2448,8 @@ body{
 .Path_27225 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 40.483px;
 	height: 40.483px;
 	left: 0px;
@@ -4225,6 +4233,8 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 .Path_27231 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 19.623px;
 	height: 42.513px;
 	left: 133.81px;
@@ -4237,6 +4247,8 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 .Path_27233 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 40.396px;
 	height: 40.408px;
 	left: 328.264px;
@@ -4249,6 +4261,8 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 .Path_27232 {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 45.859px;
 	height: 36.682px;
 	left: 225.832px;
@@ -4277,6 +4291,8 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 .Path_27225_i {
 	overflow: visible;
 	position: absolute;
+	cursor: pointer;
+	z-index: 99999;
 	width: 40.483px;
 	height: 40.483px;
 	left: 0px;

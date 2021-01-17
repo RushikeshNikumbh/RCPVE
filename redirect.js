@@ -27,3 +27,18 @@
           function makeDonation(){
                 window.open('Get Involved.html', "_blank")
           }
+
+          function fb(){
+                window.open('https://www.facebook.com/rcpvibranteast', "_blank")
+          }
+          function twitter(){
+            window.open('https://www.twitter.com/rcpvibranteast', "_blank")
+            }
+      function yt(){
+            window.open('https://www.youtube.com/channel/UCLrvjcao_Q7odGXqWF0NI5Q/featured', "_blank")
+      }
+      function insta(){
+            window.open('https://www.instagram.com/rcpvibranteast', "_blank")
+      }
+
+
