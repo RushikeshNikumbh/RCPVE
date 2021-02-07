@@ -11,7 +11,7 @@
         });	*/	
         
         function joinRotary() {
-            window.open('https://my.rotary.org/en', "_blank")
+            window.open('https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__p4VmBZURExQVllRNFVMVTBNQlBYQkxGMTdUV1A5MC4u', "_blank")
           }
 
 
@@ -25,7 +25,7 @@
           }
 
           function makeDonation(){
-                window.open('Get Involved.html', "_blank")
+                window.open('https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__p4VmBZURElBVUUzNzU4R0hZMzREUktTRlNUQlBSUS4u', "_blank")
           }
 
           function fb(){
@@ -41,4 +41,10 @@
             window.open('https://www.instagram.com/rcpvibranteast', "_blank")
       }
 
-
+      
+      function userSignup() {
+            window.open('http://rcpve.org/pph/meetings/?id=601adewebsitercpve', "_blank")
+          }
+          function clubSignup() {
+            window.open('http://rcpve.org/pph/meetings/club-signup.php', "_blank")
+          }

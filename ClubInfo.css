@@ -1269,6 +1269,24 @@ body{
 	font-size: 21px;
 	color: rgba(255,255,255,1);
 }
+
+.GET_STARTED_Class1 {
+	left: 500px;
+	top: 792px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: medium;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+
 .Path_27220_Class {
 	fill: rgba(32,57,142,1);
 }
@@ -2580,7 +2598,7 @@ body{
 }
 .Club_members_Class {
 	left: 165px;
-	top: 1270px;
+	top: 1420px;
 	position: absolute;
 	overflow: visible;
 	width: 1250px;
@@ -2617,7 +2635,7 @@ body{
 
 .Club_Meetings_Events__Programs_Class {
 	left: 165px;
-	top: 2531px;
+	top: 2940px;
 	position: absolute;
 	overflow: visible;
 	width: 1500px;
@@ -2636,7 +2654,7 @@ body{
 
 .calendarframe {
 	left: 165px;
-	top: 2650px;
+	top: 3040px;
 	position: absolute;
 	overflow: visible;
 	width: 1500px;
@@ -2654,7 +2672,7 @@ body{
 }
 .Meeting_Info_and_Venue {
     left: 165px;
-    top: 1180px;
+    top: 1310px;
     position: absolute;
     overflow: visible;
     width: 692px;
@@ -2673,7 +2691,7 @@ body{
 
 .Earlier_Projects_Class {
 	left: 165px;
-	top: 3607px;
+	top: 2695px;
 	position: absolute;
 	overflow: visible;
 	width: 486px;
@@ -2777,7 +2795,27 @@ body{
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}/*
+}
+.Rotary_Community_Cops{
+	left: 165px;
+	top: 2770px;
+	position: absolute;
+	overflow: visible;
+	width: 1591px;
+	height: 71px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+
+
+/*
 .Rectangle_6084_Class {
 	display: none;
 	fill: rgba(255,255,255,1);

@@ -1217,7 +1217,7 @@ body{
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 105px;
+	font-size: 80px;
 	color: rgba(21,49,144,1);
 }
 .Get_Class {
@@ -1233,7 +1233,7 @@ body{
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 106px;
+	font-size: 80px;
 	color: rgba(21,49,144,1);
 }
 .Path_27219_Class {
@@ -1267,8 +1267,25 @@ body{
 	align-items: center;
 }
 
+.GET_STARTED_Class2 {
+	left: 500px;
+	top: 783.322px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+	align-items: center;
+}
 .GET_STARTED_Class1 {
-	left: 855px;
+	left: 650px;
 	top: 4850px;
 	position: absolute;
 	overflow: visible;
@@ -1285,6 +1302,23 @@ body{
 	align-items: center;
 }
 
+.GET_STARTED_Class3 {
+	left: 1050px;
+	top: 4850px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+	align-items: center;
+}
 .MakeADonation{
 	left: 825px;
 	top: 5335px;
@@ -2676,7 +2710,7 @@ body{
 }
 .Defining_goals_Class {
 	left: 165px;
-	top: 1180px;
+	top: 1200px;
 	position: absolute;
 	overflow: visible;
 	width: 429px;
@@ -2807,7 +2841,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 }
 .The_Club_made_a_modest_start_w_Class {
 	left: 165px;
-	top: 1313px;
+	top: 1353px;
 	position: absolute;
 	overflow: visible;
 	width: 1591px;
@@ -3214,9 +3248,9 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-.Membership_Class {
+.Membership_Class{
 	left: 165px;
-	top: 1264px;
+	top: 1295px;
 	position: absolute;
 	overflow: visible;
 	width: 176px;
@@ -3622,7 +3656,7 @@ box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.911);
 	transform: matrix(1,0,0,1,0,0);
 }
 .Join_Rotary_Club_Class {
-	left: 33.231px;
+	left: 240px;
 	top: 14.497px;
 	position: absolute;
 	overflow: visible;

@@ -1260,6 +1260,23 @@
 	font-size: 21px;
 	color: rgba(255,255,255,1);
 }
+.GET_STARTED_Class1 {
+	left: 500px;
+	top: 795px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+
 .Path_27220_Class {
 	fill: rgba(32,57,142,1);
 }
@@ -2624,7 +2641,7 @@
 
 .Rotary_News_Class1 {
 	left: 165px;
-	top: 1945px;
+	top: 2360px;
 	position: absolute;
 	overflow: visible;
 	width: 369px;
@@ -2768,7 +2785,7 @@
 }
 .MAJOR_PROJECTS_2020__2021_Class {
     left: 165px;
-    top: 2025px;
+    top: 2435px;
     position: absolute;
     overflow: visible;
     width: 400px;
@@ -3290,12 +3307,12 @@
 
 .Projects19_20 {
 	left: 160px;
-	top: 2075px;
+	top: 2475px;
 	position: absolute;
 	overflow-y: scroll;
 	overflow-x: hidden;
-	width: 85%;
-	height: 700px;
+	width: 80%;
+	height: 400px;
 	line-height: 50px;
 	margin-top: -0.5px;
 	text-align: left;
